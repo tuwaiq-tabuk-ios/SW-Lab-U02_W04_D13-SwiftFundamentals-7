@@ -9,5 +9,5 @@ Property Observers
 1.Battery of exercises included in the playgrounds
 
 ## Deadline 
-Wednesday 3rd October 9:15 am
+Wednesday 3rd November 9:15 am
 
