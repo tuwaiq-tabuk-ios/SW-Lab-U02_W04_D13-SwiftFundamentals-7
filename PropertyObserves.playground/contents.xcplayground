@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Untitled Page'/>
+        <page name='01-01 Peraon'/>
+        <page name='01-02Person'/>
+        <page name='02-01PeopleCounler'/>
+        <page name='02-02PeopleCounter'/>
+    </pages>
+</playground>
